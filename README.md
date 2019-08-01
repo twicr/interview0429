@@ -3,7 +3,7 @@
 > [github项目](https://github.com/haizlin/fe-interview?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=750848792785354752) 问题解答
 # HTML
 ### html5中的form怎么关闭自动完成？
-自动完成允许浏览器预测字符段的输入，当用户开始键入时，浏览器会基于显示历史输入列表，自动完成默认值为on，当设置autocomplete="off"时关闭
+自动完成允许浏览器预测字符段的输入，当用户开始键入时，浏览器会基于显示历史输入列表，自动完成默认值为on，当设置 autocomplete="off" 时关闭
 # CSS
 ### ::before和:after中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？
 在CSS3中，为了和伪类区分开来，伪元素使用双冒号显示
